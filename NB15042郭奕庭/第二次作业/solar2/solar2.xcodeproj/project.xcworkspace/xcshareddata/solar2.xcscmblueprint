@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "573D62C632843EA2B26552113DFD64E26401307A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "573D62C632843EA2B26552113DFD64E26401307A" : 0,
+    "483FB1849EE35EB4B2AC0F516B1DBC0B1D376717" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "149AFB47-95E9-4377-97CD-7A65AF6AAD88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "573D62C632843EA2B26552113DFD64E26401307A" : "opengl2015\/",
+    "483FB1849EE35EB4B2AC0F516B1DBC0B1D376717" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "solar2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NB15042郭奕庭\/第二次作业\/solar2\/solar2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Greetingtec\/forGit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "483FB1849EE35EB4B2AC0F516B1DBC0B1D376717"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Greetingtec\/opengl2015.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "573D62C632843EA2B26552113DFD64E26401307A"
+    }
+  ]
+}
